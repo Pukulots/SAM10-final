@@ -63,4 +63,4 @@ jobs:
           app-name: 'sam10-perez-EVVP'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_83E6526D12AE481DB7794003DB941996 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7195444BA94B4B8588470440D2B8F996 }}
